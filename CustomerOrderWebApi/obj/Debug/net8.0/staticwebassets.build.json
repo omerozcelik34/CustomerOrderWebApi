@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EpBGdPlfxun0p0s+1z+4Ga65twWplUO9vKWbydcihcY=",
+  "Source": "CustomerOrderWebApi",
+  "BasePath": "_content/CustomerOrderWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
